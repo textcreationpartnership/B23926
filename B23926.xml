@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony of Gods love unto mankind in general but more especially to them that believe in his light : also signifying (in short) that the suffering people of God were subject to the higher power, and suffered under the power of darkness / by Peter Hardcastle.</title>
+            <author>P. H. (Peter Hardcastle), d. 1693.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23926</idno><idno type="EEBO-CITATION">8711625</idno>
+  <idno type="VID">204317</idno>
+  <idno type="EEBO-PROQUEST">2248503931</idno>
+  
+            <idno type="STC">Wing H698</idno>
+            <idno type="OCLC">08711625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204317)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1261:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony of Gods love unto mankind in general but more especially to them that believe in his light : also signifying (in short) that the suffering people of God were subject to the higher power, and suffered under the power of darkness / by Peter Hardcastle.</title>
+                  <author>P. H. (Peter Hardcastle), d. 1693.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: top margins with page numbers cropped.</note>
+                  <note>Incorrectly listed at position 1261:6 in reel guide.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">God --  Love.</term>
+               <term type="topical_term">Love --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204317:1"/>
+            <pb facs="tcp:204317:2"/>
+            <pb facs="tcp:204317:2"/>
+            <p>A TESTIMONY OF GODS LOVE UNTO Mankind in General, But more especially to them that be<g ref="char:EOLhyphen"/>lieve in his LIGHT.</p>
+            <p>ALSO Signifying (in short) that the Suffering People of God were subject to the Higher POWER, and Suffered under the Powers of Darkness.</p>
+            <p>
+               <hi>By</hi> Peter Hardcastle.</p>
+            <q>
+               <p>They that knew God, and Glorified him not as God, neither did like to re<g ref="char:EOLhyphen"/>tain him in their knowledge, God gave them over to a reprobate Mind, and they became vain in their Imaginations, and their foolish hearts were darkned,
+<bibl>
+                     <hi>Rom. 1.21.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>But the Path of the Righteous is as a shining Light, that shineth more and more unto the perfect Day,
+<bibl>
+                     <hi>Prov. 4.21.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year, 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204317:3"/>
+            <pb facs="tcp:204317:3"/>
+            <head>A Testimony of Gods Love unto Man<g ref="char:EOLhyphen"/>kind in General; but more especially to them that Believe in his Light.</head>
+            <p>THE Lord God, who created all things by the Word of his Power, manifested his Love unto Mankind in general, by creating man in his own Image, and giving him power and dominion over the Works of his Hands; that both Male and Female might stand in the Heavenly Authority, in the Life, and Power, and Heavenly Image, over the Earth and earthly things, or<g ref="char:EOLhyphen"/>dering them in the Wisdom of the Creator; and over the Serpent and all his subtilty, and power; and in this State they had right to the Tree of Life, and the Fruit of it, which was to keep them alive unto God, that they might Worship and Serve him, and bow to his Power; and so live to the Praise and Glory of the Lord forever: In this Estate man was in union with his Maker, and knew no Sorrow, nor Death, nor any Evil: In this blessed Estate they lived, until the Serpent, through his subtilty deceived the Woman, and she took of the Tree of Knowledge of <hi>Good</hi> and <hi>Evil,</hi> and gave also unto her Hus<g ref="char:EOLhyphen"/>band, and they both did eat of the forbidden Fruit; and so sin entred, and Death by sin; thus they came to know Sorrow, and Death, and Pain, and lost the Paradice of God, and right to the Tree of Life; and so fell from the Life and Power of God, under the Serpents power, and under Death's dominion. In this Estate are all the Sons and Daugh<g ref="char:EOLhyphen"/>ters of <hi>Adam</hi> in the fall, who are not redeemed by the Life and Power of the Lord Jesus Christ: But the Lord in the Riches of his Love and o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his free Grace, hath manifested his Love aboundantly unto Mankind<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in that he hath given his only begotten Son, who was glorified wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> himself before the World began, by whom the World, and all thing<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therein was made, and by whom all things are upheld; him hath th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Father given, and prepared him a Body, that he might do the Will<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Father, &amp; tasted Death for every man, and enlightneth every m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:204317:4"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> world (with the Light of Life) that all Mankind might have a Day of Visi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of the Love of God, who would have all men to see from whence they are faln, and come to the knowledge of the Truth, and be saved, as it's written, <hi>Titus</hi> 2.2. <hi>The Grace of God, that bringeth Salvation, hath appeared to all men:</hi> Thus the Lord hath manifested his Love again unto Mankind in general, in giving a Day of Visitation, and tendering his free Grace in the Love of the Lord Jesus Christ; and so the Lord is clear from the Blood of all men, that will none of his Counsel, who reject his <hi>Grace</hi> and <hi>good Spirit,</hi> when it is freely tendered to them, by which they might be saved from Sin and Death, and restored unto Everlasting Life: And unto this undeniable <hi>Truth</hi> of God shall the Unrighteous Generation confess in the mighty Day of the Lord, and that the Way of the Lord is Equal.</p>
+            <p>But more especially the Lord hath manifested his undeclarable Love (in the Lord Jesus Christ) in the Hearts of those who receive the Light and Spirit of Grace, when it is tendered to them, and appears in them; these come to know the Work of the Lord by the oppera<g ref="char:EOLhyphen"/>ting of his <hi>Power</hi> and Spirit of <hi>Grace,</hi> by which the heart comes to be opened, and the Eye of the Understanding inlightened (more and more) that the Creature comes to discern those things that per<g ref="char:EOLhyphen"/>tain unto Life and Salvation; and so waiting upon the Lord in his Gift, which is <hi>pure,</hi> comes to feel his pure Power, which gives do<g ref="char:EOLhyphen"/>minion over the spirit and power of darkness; &amp; so as the Faith stands in the Power of God, the work of Darkness (which is Sin and Ini<g ref="char:EOLhyphen"/>quity) comes to be wrought out of the Creature; and the Blood or Life of the Lord Jesus comes to be ministred unto the Soul, by which the Soul comes to be Washed, Comforted, and inlivened (more and more) to wait upon the Lord; and thus the Soul comes to be subject to the Lord, and to his Christ, the Power of God, which is the Higher Power, which every Soul ought to be subject unto; and so the Soul being purified and made subject to the Power of God, comes to be joyned unto the Lord in the Spirit, and so waits upon the Lord, and serves him, and worships him in the Spirit and in the Truth; and hereby the Love of God comes to be shed abroad in the heart aboundantly (beyond expression) and the Soul comes to pertake of di<g ref="char:EOLhyphen"/>vine Consolation, eats of the Bread, and drinks of the Water of Life, and so comes to know a Passage from Death to Life, as the prima<g ref="char:EOLhyphen"/>tive
+<pb facs="tcp:204317:4"/>
+               <hi>Christians</hi> did: And so the tender Care and Love of God in the Lord Jesus is manifested on this wise unto them that believe, and are willing and obedient unto the Heavenly Voice (or Motion of the ho<g ref="char:EOLhyphen"/>ly Spirit) and whatever the Children of Light come to pertake, of divine Consolation, whilst they remain in the Body, it is but as the Earnest of the Inheritance, which the Lord hath prepared for them in his Heavenly Kingdom, when time shall be no more; and so the A<g ref="char:EOLhyphen"/>postle and Minister of Christ said on this wise, <hi>When our earthly Houses of this Tabernacle is disolved, we have a Building made without hands, eternal in the Heavens:</hi> And <hi>Moses,</hi> the Servant of the Lord, <hi>Chosed rather to suffer Affliction with the People of God, then to injoy the pleasures of sin for a season;</hi> because he had respect to the Recompence of the Reward: And so, in like manner, the People of God in all Ages, who were delivered from the power of <hi>Darkness,</hi> and made subject to the <hi>Power</hi> of <hi>God,</hi> they chos'd rather to suffer with the Suffering <hi>Seed,</hi> then to do those things which might displease the Lord, and bring his heavy <hi>Judgments</hi> upon themselves, and cause the <hi>Name of the Lord</hi> to be blasphemed; and so being made perfect in their Generation ac<g ref="char:EOLhyphen"/>cording to the Will of God, they became as <hi>Tryed Stones in the House of God,</hi> and were of the general Assembly, and Church of the First-born, <hi>Jesus Christ</hi> being the <hi>Head</hi> and chief <hi>Corner-stone;</hi> and these Souls were subject to the Higher Power, and were nourished at the Brests of Consolation; and what ever they suffered outwardly, it was under the power of <hi>Darkness;</hi> and so Jesus said unto his <hi>Persecutors,</hi> when he was to Suffer, ☞ <hi>This is your houer, and the power of Dark<g ref="char:EOLhyphen"/>ness:</hi> And the true <hi>Christians</hi> in the primitive time, before the <hi>Apo<g ref="char:EOLhyphen"/>stacy,</hi> who were delivered from the Power of Darkness, they testified, <hi>That they wrestled not against Flesh and Blood, but against Principallities, and Powers, and spiritual Wickedness in high Places;</hi> and yet these <hi>Christians</hi> were subject to the higher Power, and did not resist the Or<g ref="char:EOLhyphen"/>dinance of God. Even so, now hath the Lord appeared in Power and in Glory (after the Night of Darkness, and Apostacy from the Life and Power of God) to gather in one (even in Christ) the hearts and spirits of his People, that he may Baptize them by his Spirit into one Body, that as the Lord is one, and his Name one, even so his Peo<g ref="char:EOLhyphen"/>ple may be one in him, and wait upon him, and serve him, and worship him, and bow to his Name, and be subject to his Power (Gods Ordinance) and to every Ordinance of man, which is made for the
+<pb facs="tcp:204317:5"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords sake; and this is the Lords Work, which he hath begun, and carries it on by his own Power; and for this end the Lord sent forth his Servants, to turn Peoples minds to the Light of Christ, and from the power of Darkness unto God, and their Testimony was true; and as many as receive the Light, and believe in it, they receive pow<g ref="char:EOLhyphen"/>er over their own <hi>wills,</hi> and over the spirit and power of <hi>Darkness,</hi> and so wrastles against the Spirit and Power of Darkness, to be delivered from its Temptations. And as it was the Practise of the Churches of Christ, in the primitive Times, to meet together and wait upon the Lord, that they might receive of his Fulness, and their Souls be satisfied with the feeling of his Love, and Life, and Pow<g ref="char:EOLhyphen"/>er manifested in and amongst them, by which they were refreshed and enabled to stand against the Wiles and Temptations of the Devil and power of Darkness; even so, the same Practise is found amongst the Gatherings of the Lords People (who are in scorn called <hi>Qua<g ref="char:EOLhyphen"/>kers</hi>) by which it appears, that they have received of the same Spirit and Power which they had, who lived in the Apostles dayes; and though these Christians have no other end in meeting together, but that the Name of the Lord and his Truth may be exalted, and their Souls refreshed, in feeling the Life and Power of the Lord in them, and amongst them, and receive Wisdom from the Lord, that they may be ordered by it in a holy Conversation, that their Light may shine before men, that the Lord may be Glorified and Praised for all his Blessings. Many have suffered very deeply, since they were gather<g ref="char:EOLhyphen"/>ed in the Name of the Lord, and their Sufferings do encrease since the late Act came forth, which was made (as we suppose) <hi>against Sedi<g ref="char:EOLhyphen"/>tious Sectaries, and other Disloyal Persons, who under Pretence of Tender Consciences, have or may at their Meetings contrive Insurrections, as late Experience hath shewn:</hi> If this be so, that the Act be against such, let the Wise in Heart consider, whether the Innocent People of God, who are free from all these things (and abide in the Spirit of Truth, and bring forth the Fruits of the Spirit, which is <hi>Love, Meekness, Peace, Long-Suffering, Temperance, and the like,</hi> which the Apostle saith, <hi>Against such there is no Law</hi>) do not suffer contrary to the Law; and whether the Rod of the Wicked ought to be laid upon the Back of the Righteous; and whether it be not high time for all Ministers of Law and Justice, to wait for the Power of God to open their Under<g ref="char:EOLhyphen"/>standings, that they may discern between the Righteous and the wick<g ref="char:EOLhyphen"/>ed,
+<pb facs="tcp:204317:5"/>and between them that meet under <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that meet in Reallity and in the Truth; and so lay the Rod upon the Wicked, and Transgressors of every just Law, and let the Righteous go free, so that Love, and Peace, and Righteousness, and the Know<g ref="char:EOLhyphen"/>ledge of God and his Truth might spread over the Earth, that the Lord may pouer forth his Blessings upon the works of his own hands; and that Sin, and Iniquity, and every Abomination (in the Eye of the Lord may be done away, which brings the Curse and Wrath of God upon Families, and Cities, and Kingdoms; and that all People high and low might Fear the Lord, and honour him above all, and be subject to his Power: So shall the Mountain of the Lords House be established above all Mountains, and Love and Peace grow in the Earth; that the Nations may beat then Swords into Plow-shares, and their Spears into Pruning-hooks, according to the Prophesie of <hi>Isaiah:</hi> And the holy City New <hi>Jerusalem,</hi> the Mother of many Sons and Daughters, may become the Praise of the whole Earth, and the Kings of the Earth that are saved, may bring their Glory and Ho<g ref="char:EOLhyphen"/>nour into it, and rule in the Lambs Power, over the Beast and power of Darkness; and the Kingdoms of the World may become the King<g ref="char:EOLhyphen"/>doms of our Lord Jesus Christ, that God may be all in all, and over all blessed for ever.</p>
+            <p>This will the Lord bring to pass (we do believe) in his appoin<g ref="char:EOLhyphen"/>ted time, and in his day, by his Word and Power: And as the Lord hath been pleased to manifest his Love in us, and open the Eye of our Understandings, and reveal his Mind and Will; even so in the same Love we signifie (according to the Will of God) in love to all People, that they may cease to do evil, and learn to do well, and turn to the Lord, and escape his heavy Judgment, which will certain<g ref="char:EOLhyphen"/>ly come upon the Ungodly, except they repent; <hi>For the Ʋngodly shall not stand before him in the Judgment, nor Sinners in the Congrega<g ref="char:EOLhyphen"/>tion of the Righteous:</hi> Therefore Kiss the Son, lest he be Angry, and ye perish from the Way, when his Wrath is kindled but a little; Blessed are all they that put their Trust in him, and wait upon him, and receive his Counsel, that they may pertake of his divine Nature, and grow in the same into the Estate of Election, and so follow the Lamb in the meek Spirit of Grace; and resist the Enemy, the old Ac<g ref="char:EOLhyphen"/>cuser of the Brethren and Servants of the Lord, in all his Wiles and
+<pb facs="tcp:204317:6"/>Temptations; and so escape the Wrath of God and the Estate of Reprobation, which they that follow the Enemies Counsel cannot escape; for the Lamb and his Followers must have the Victory: And the Redeemed of the Lord praise the Lord in the beauty of Holiness, in the Land of the Living, where the unrighteous Generation (who reject the Counsel of the Lord, and Tenders of his free Love in Christ, and cast his Law behind them) cannot come.</p>
+            <closer>
+               <signed>Peter Hardcastle.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:204317:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
